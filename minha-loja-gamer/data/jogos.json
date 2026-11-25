@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "The Last of Us Part II",
+    "genero": "Ação/Aventura",
+    "preco": 199.90
+  },
+  {
+    "id": 2,
+    "nome": "FIFA 24",
+    "genero": "Esportes",
+    "preco": 249.90
+  },
+
+    {
+    "id": 3,
+    "nome": "GTA VI",
+    "genero": "Ação",
+    "preco": 549.90
+  }
+
+]
